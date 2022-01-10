@@ -4,6 +4,7 @@
 It's a project 1 in the Game Design and Development with Unity Michigan State University
 This project aim is to imitate the solar system, showing planet in their order.
 <br>
+https://driskimaulana.itch.io/solar-system
 
 **Project Result**
 
